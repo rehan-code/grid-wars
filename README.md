@@ -3,19 +3,19 @@ A top down, unity strategy board game. Characters have specific combat and move 
 
 ## Characters
 ### Soldier
-HP: 3
-Movement: 2
-Attack Range: 1
-Damage: 2
+- HP: 3
+- Movement: 2
+- Attack Range: 1
+- Damage: 2
 
 ### Archer
-HP: 2
-Movement: 2
-Attack Range: 2
-Damage: 1
+- HP: 2
+- Movement: 2
+- Attack Range: 2
+- Damage: 1
 
 ### Tank
-HP: 4
-Movement: 1
-Attack Range: 1
-Damage: 3
+- HP: 4
+- Movement: 1
+- Attack Range: 1
+- Damage: 3
